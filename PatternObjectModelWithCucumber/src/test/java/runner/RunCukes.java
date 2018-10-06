@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 					glue= {"pages","steps"},
 					monochrome=true)
 @RunWith(Cucumber.class)
-d
+dd
 public class RunCukes {
 	
 }
