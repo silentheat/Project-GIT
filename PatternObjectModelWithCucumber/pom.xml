@@ -22,7 +22,7 @@
 			<version>6.14.2</version>
 		</dependency>
 
-		<dependency>
+		<dependency>s
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
 			<version>3.17</version>
